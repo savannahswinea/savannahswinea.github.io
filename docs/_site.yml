@@ -1,8 +1,8 @@
 name: "my-website"
 navbar:
   title: "Savannah H. Swinea"
-left:
-  - text: "Home"
-href: index.html
-- text: "Contact"
-href: contact.html
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Contact"
+      href: contact.html
