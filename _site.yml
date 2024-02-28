@@ -1,0 +1,6 @@
+name: "my-website"
+navbar:
+  title: "Savannah Swinea"
+  left:
+    - text: "Home"
+      href: index.html
