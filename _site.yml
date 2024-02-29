@@ -1,6 +1,14 @@
 name: "my-website"
 navbar:
-  title: "Savannah Swinea"
+  title: "Savannah Swinea Personal Website"
   left:
-    - text: "Home"
-      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Diversity, Equity, and Inclusion"
+      href: dei.html
+    - text: "Teaching"
+      href: teaching.html
