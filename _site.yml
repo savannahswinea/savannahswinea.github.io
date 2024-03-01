@@ -2,13 +2,13 @@ name: "my-website"
 navbar:
   title: "Savannah Swinea Personal Website"
   left:
-    - text: "About"
+    - text: "ABOUT"
       href: about.html
-    - text: "Research"
+    - text: "RESEARCH"
       href: research.html
-    - text: "Publications"
+    - text: "PUBLICATIONS"
       href: publications.html
-    - text: "Diversity, Equity, and Inclusion"
+    - text: "DEI"
       href: dei.html
-    - text: "Teaching"
+    - text: "TEACHING"
       href: teaching.html

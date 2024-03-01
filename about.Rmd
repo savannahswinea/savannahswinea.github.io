@@ -1,5 +1,5 @@
 ---
-title: "ABOUT ME"
+title: "About Me"
 ---
 
 I am currently a PhD Candidate in the Department of Marine and Environmental Sciences at Northeastern University's [Marine Science Center](https://cos.northeastern.edu/marinescience/). I am advised by Dr. Steven Scyphers in the [Social-Ecological Sustainability Lab](https://www.scypherslab.com/). I am also a Visiting PhD Student at the University of South Alabama and the Dauphin Island Sea Lab.
