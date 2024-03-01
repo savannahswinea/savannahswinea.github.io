@@ -1,3 +1,4 @@
 ---
 title: "Diversity, Equity, and Inclusion"
+output: html_document
 ---

@@ -1,3 +1,4 @@
 ---
 title: "Research"
+output: html_document
 ---

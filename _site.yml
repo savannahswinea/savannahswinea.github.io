@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: "Savannah Swinea Personal Website"
+  title: "Savannah H. Swinea"
   left:
     - text: "ABOUT"
       href: index.html
@@ -12,3 +12,13 @@ navbar:
       href: dei.html
     - text: "TEACHING"
       href: teaching.html
+  right: 
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/savannahswinea
+    - icon: fa-github fa-lg
+      href: http://github.com/shswinea/
+output:
+  html_document:
+    theme: lumen
+
+
