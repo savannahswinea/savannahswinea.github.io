@@ -3,7 +3,7 @@ navbar:
   title: "Savannah Swinea Personal Website"
   left:
     - text: "ABOUT"
-      href: about.html
+      href: index.html
     - text: "RESEARCH"
       href: research.html
     - text: "PUBLICATIONS"
