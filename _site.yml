@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: "Savannah H. Swinea"
+  title: "SAVANNAH H. SWINEA"
   left:
     - text: "ABOUT"
       href: index.html
@@ -13,6 +13,8 @@ navbar:
     - text: "TEACHING"
       href: teaching.html
   right: 
+    - icon: fa-brands fa-google-scholar fa-lg
+      href: https://scholar.google.com/citations?user=f3GTzVIAAAAJ&hl=en&authuser=1
     - icon: fa-twitter fa-lg
       href: https://twitter.com/savannahswinea
     - icon: fa-github fa-lg
