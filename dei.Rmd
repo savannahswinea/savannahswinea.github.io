@@ -2,3 +2,9 @@
 title: "Diversity, Equity, and Inclusion"
 output: html_document
 ---
+
+- You Are Welcome Here
+
+- Rising TIDES
+
+When engaging people in science, it is vital to direct initiatives in such a way to capture underrepresented groups, not only to maintain diverse perspectives on the research findings and implications, but also to recruit active agents to participate in the scientific process itself. With this aim in mind, I have acted to normalize the existence of underrepresented identity holders like myself in academic spaces. At my university, I coordinate a “You Are Welcome Here” campaign where we host annual workshops designed to increase the visibility and acceptance of LGBTQ+ students in my department. In addition, through the Coastal and Estuarine Research Federation, I serve as an Advisor to the Rising TIDES (Toward an Inclusive, Diverse, and Enriched Society) Program. As a former student member of this program who benefited from support to attend conferences and career trainings, I am grateful to be able to give back to the next cohort of underrepresented students. Through this program, I have met so many accomplished scientists at various career stages who have managed to succeed despite societal hurdles. People with underrepresented identities have been marginalized in conservation spaces, and because we contribute unique outlooks on research, this has been to the detriment of the field. I attack this problem holistically: through highlighting diverse knowledge in my research; through fostering an inclusive climate in my teaching; and through supporting DEI work within my professional extracurriculars.

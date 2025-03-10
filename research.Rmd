@@ -2,3 +2,22 @@
 title: "Research"
 output: html_document
 ---
+
+- Marshes to mangroves
+- My paper, pictures, figures, Remi's papers, Jahson's paper, Mike's paper, Mangrove Explorer
+
+- Gulf fisheries resilience to oil spills
+- My paper, figures, pictures
+- I designed a project with my thesis mentor where we sought to understand the economic impacts of the Deepwater Horizon oil spill on fisheries in the Gulf of Mexico. This study was a point of convergence to understand ecological responses of fish stocks, fisheries economics in a post-disaster landscape, and the social implications for Gulf coast fishermen and communities. I am proud that this study resulted in my first first-author publication in the journal Ecosphere. This formative experience was instrumental in solidifying my desire to work at the nexus of environment and society in graduate school. 
+
+- Fishing for food
+- Figures
+
+- Mental modeling
+- Figures
+
+- Greater Amberjack
+- Figures
+
+- EBCI climate adaptation
+- pictures

@@ -2,3 +2,31 @@
 title: "Teaching"
 output: html_document
 ---
+
+ENV 101: Environment & Society
+
+This course focuses on understanding the intertwined nature of people and environments. Students will learn to see and describe the social, economic, and biophysical dimensions of environmental problems and solutions. Specific topics include:
+
+resilience
+ecosystem services
+risks and hazards
+environmental policy
+cognition and behavior
+sustainable materials, technologies, and development
+commons
+food systems
+history, religion, and demography
+
+After building a foundation in the fundamentals of coupled socio-environmental systems, students apply this knowledge as researchers. Students develop and implement surveys of their university community on sustainability topics of their choosing and disseminate their findings in a conference-style presentation and report in the style of a peer-reviewed publication.
+
+
+
+Teaching Statement
+
+Teaching Philosophy
+
+Teaching Experience
+
+Instructor of Record 
+
+Environment & Society (ENV101, University of South Alabama) - Fall 2023, 2024

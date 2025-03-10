@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div style="width: 1000px;">
 
-```{r pressure, echo=FALSE, fig.cap="Savannah H. Swinea", out.width = '80%'}
+```{r pressure, echo=FALSE, fig.cap="<span style='font-size: 22px; font-weight: bold;'>Savannah H. Swinea</span> <br> <span style='font-size: 16px;'>Postdoctoral Researcher at North Carolina State University</span>", out.width = '80%', results='asis'}
 knitr::include_graphics("headshot.jpg")
 ```
 
