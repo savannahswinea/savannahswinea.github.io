@@ -12,6 +12,8 @@ navbar:
       href: dei.html
     - text: "TEACHING"
       href: teaching.html
+    - text: "NEWS"
+      href: outreach.html
   right: 
     - icon: fa-brands fa-google-scholar fa-lg
       href: https://scholar.google.com/citations?user=f3GTzVIAAAAJ&hl=en&authuser=1

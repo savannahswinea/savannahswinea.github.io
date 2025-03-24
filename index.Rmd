@@ -33,7 +33,7 @@ knitr::include_graphics("headshot.jpg")
 
 Welcome!
 
-My research focuses on co-producing knowledge with scientists and local experts and applying that knowledge to practically benefit coastal ecosystems and societies. My work is interdisciplinary, spanning environmental and social sciences, and I use participatory approaches alongside statistical and computational methods to unpack complex modern challenges.
+My research focuses on co-producing knowledge with scientists and local experts and applying that knowledge to practically benefit ecosystems and societies. My work is interdisciplinary, spanning environmental and social sciences, and I use participatory approaches alongside statistical and computational methods to unpack complex modern challenges.
 
 I am currently a Postdoctoral Researcher at North Carolina State University in partnership the United States Geological Survey (USGS) [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/).
 

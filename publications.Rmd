@@ -5,9 +5,9 @@ output: html_document
 
 <span style="font-size: 18px;">**Peer-Reviewed:**</span>  
 
-8\. Alemu I, J.B., Hughes, A.R., Osland, M.J., **Swinea, S.H.**, Thorne, K.A., Bardou, R., Shepard, C.C., & Scyphers, S.B. Socio-cultural perceptions and stated preferences for climate adaptation: Insights from coastal property owners in the northern Gulf of Mexico. *People and Nature*. [https://doi.org/10.1002/pan3.10794](https://doi.org/10.1002/pan3.10794)
+8\. Alemu I, J.B., Hughes, A.R., Osland, M.J., **Swinea, S.H.**, Thorne, K.A., Bardou, R., Shepard, C.C., & Scyphers, S.B. 2025. Waterfront property owners' shoreline preferences amid salt marsh to mangrove transitions. *People and Nature*. [https://doi.org/10.1002/pan3.10794](https://doi.org/10.1002/pan3.10794)
 
-7\. **Swinea, S.H.**, Hughes, A.R., Osland, M.J., Shepard, C.C., Thorne, K.B., Alemu I, J.B., Bardou, R., and Scyphers, S.B. 2024. Marshes to mangroves: Residential surveys reveal perceived wetland trade-offs for ecosystem services. *Landscape and Urban Planning*. [https://doi.org/10.1016/j.landurbplan.2024.105203](https://doi.org/10.1016/j.landurbplan.2024.105203)
+7\. **Swinea, S.H.**, Hughes, A.R., Osland, M.J., Shepard, C.C., Thorne, K.B., Alemu I, J.B., Bardou, R., and Scyphers, S.B. 2025. Marshes to mangroves: Residential surveys reveal perceived wetland trade-offs for ecosystem services. *Landscape and Urban Planning*. [https://doi.org/10.1016/j.landurbplan.2024.105203](https://doi.org/10.1016/j.landurbplan.2024.105203)
 
 6\. Bardou, R., Osland, M.J., Alemu I, J.B., Feher, L.C., Harlan, D., Scyphers, S., Shepard, C.C., **Swinea, S.H.**, Thorne, K., Andrew, J.E., & Hughes, A.R. 2024. Projected changes in mangrove distribution and vegetation structure under climate change in the southeastern United States. *Journal of Biogeography*. [https://doi.org/10.1111/jbi.14985](https://doi.org/10.1111/jbi.14985)
 

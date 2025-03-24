@@ -3,21 +3,20 @@ title: "Research"
 output: html_document
 ---
 
-- Marshes to mangroves
-- My paper, pictures, figures, Remi's papers, Jahson's paper, Mike's paper, Mangrove Explorer
+<span style="font-size: 18px;">**Marshes to mangroves: Social and ecological implications of mangrove expansion**</span>  
 
-- Gulf fisheries resilience to oil spills
-- My paper, figures, pictures
-- I designed a project with my thesis mentor where we sought to understand the economic impacts of the Deepwater Horizon oil spill on fisheries in the Gulf of Mexico. This study was a point of convergence to understand ecological responses of fish stocks, fisheries economics in a post-disaster landscape, and the social implications for Gulf coast fishermen and communities. I am proud that this study resulted in my first first-author publication in the journal Ecosphere. This formative experience was instrumental in solidifying my desire to work at the nexus of environment and society in graduate school. 
 
-- Fishing for food
-- Figures
+Tropical species are expanding their range into temperate ecosystems globally, with uncertain impacts on ecosystem services and societies. In the US Gulf of Mexico, tropical mangroves are beginning to outcompete temperate salt marshes. How do coastal residents perceive this change?  We surveyed waterfront homeowners in mangrove expansion hotspots and asked them if mangroves or marshes were better at supporting coastal fisheries. Our ordinal logistic regression had a surprising result: revealed people who had marshes on their shoreline actually perceived that mangroves were better at supporting coastal fisheries. This highlights the importance of soliciting the perceptions and knowledge of local people, rather than assuming their perceptions might be driven by environmental conditions alone.
 
-- Mental modeling
-- Figures
+This work resulted from a collaborative, interdisciplinary effort between academic, federal, and nonprofit partners. Check out our [Mangrove Explorer](https://maps.coastalresilience.org/mangrove-explorer/), where users can explore ecological and social dynamics of mangrove expansion, as well as other recent publications.
 
-- Greater Amberjack
-- Figures
+Related publication:
+**Swinea, S.H.**, Hughes, A.R., Osland, M.J., Shepard, C.C., Thorne, K.B., Alemu I, J.B., Bardou, R., and Scyphers, S.B. 2024. Marshes to mangroves: Residential surveys reveal perceived wetland trade-offs for ecosystem services. *Landscape and Urban Planning*. [https://doi.org/10.1016/j.landurbplan.2024.105203](https://doi.org/10.1016/j.landurbplan.2024.105203)
 
-- EBCI climate adaptation
-- pictures
+<span style="font-size: 18px;">**Fisheries resilience to an environmental disaster**</span> 
+
+The *Deepwater Horizon* oil spill in April 2010 was the most costly environmental disaster in United States history. Millions of barrels of oil were dispersed throughout the Gulf of Mexico, causing concern over the health of marine fauna and seafood safety. Projections estimated that Gulf of Mexico fisheries would lose billions in the years following the spill, but did this economic loss come to pass? We compiled state and regional data for commercial, recreational, and mariculture fishing industries to examine pre- and post-spill trends, and demonstrated that these fishery sectors showed remarkable resilience to unparalleled oiling. Economic trends were stable or improved following the spill, and shifts in harvest could not explain these trends. These social–ecological dynamics likely aided recovery of stressed coastal GOM communities in the years after *DwH*, although increased fishing pressure in the post-spill era may have consequences for future GOM ecosystem structure, function, and resilience.
+
+Related publication:
+**Swinea, S.H.** and Fodrie, F.J. 2021. Gulf fisheries supported resilience in the decade following unparalleled oiling. *Ecosphere*. [https://doi.org/10.1002/ecs2.3801](https://doi.org/10.1002/ecs2.3801)
+

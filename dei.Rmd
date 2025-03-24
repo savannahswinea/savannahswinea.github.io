@@ -3,8 +3,63 @@ title: "Diversity, Equity, and Inclusion"
 output: html_document
 ---
 
-- You Are Welcome Here
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
-- Rising TIDES
+<div style="padding-left: 20px; font-size: 16px; line-height: 1.6;">
 
-When engaging people in science, it is vital to direct initiatives in such a way to capture underrepresented groups, not only to maintain diverse perspectives on the research findings and implications, but also to recruit active agents to participate in the scientific process itself. With this aim in mind, I have acted to normalize the existence of underrepresented identity holders like myself in academic spaces. At my university, I coordinate a “You Are Welcome Here” campaign where we host annual workshops designed to increase the visibility and acceptance of LGBTQ+ students in my department. In addition, through the Coastal and Estuarine Research Federation, I serve as an Advisor to the Rising TIDES (Toward an Inclusive, Diverse, and Enriched Society) Program. As a former student member of this program who benefited from support to attend conferences and career trainings, I am grateful to be able to give back to the next cohort of underrepresented students. Through this program, I have met so many accomplished scientists at various career stages who have managed to succeed despite societal hurdles. People with underrepresented identities have been marginalized in conservation spaces, and because we contribute unique outlooks on research, this has been to the detriment of the field. I attack this problem holistically: through highlighting diverse knowledge in my research; through fostering an inclusive climate in my teaching; and through supporting DEI work within my professional extracurriculars.
+<span style="font-size: 18px;">**Statement of Principles**</span>  
+
+It is an utmost priority for me to advance DEIJ as both a survival strategy and a way to foster sense of belonging for myself and others. People with underrepresented identities have been marginalized in STEM spaces, and because we contribute unique outlooks on research, this has been to the detriment of the field. I attack this problem holistically: through highlighting diverse knowledge in my research; through fostering an inclusive climate in my teaching; and through supporting DEI work within my university and professional extracurriculars.
+
+<span style="font-size: 18px;">**Experience in DEIJ Advocacy**</span>
+
+<div style="display: flex; align-items: center"> <div style="width: 1000px;">
+
+```{r yawh, echo=FALSE, fig.cap="<span style='font-size: 14px;'>*You Are Welcome Here campaign logo*</span>", out.width = '80%', results='asis'}
+knitr::include_graphics("yawh.png")
+```
+
+<style>
+  .figure img {
+
+    display: block;
+    margin: 0 auto; /* Centers the image */
+  }
+  .caption {
+    text-align: center; /* Centers the caption */
+  }
+</style>
+
+</div>
+
+<div style="padding-left: 20px; font-size: 16px; line-height: 1.6;">
+
+<span style="font-size: 18px;">*You Are Welcome Here Campaign*</span>
+
+As a PhD Student at Northeastern University, I helped to coordinate a “You Are Welcome Here” campaign with the aim to increase the visibility and acceptance of LGBTQ+ students in my department. We distributed stickers and signs for our community to display, and also hosted annual workshops designed to familiarize participants with vocabulary, highlight research from LGBTQ+ scientists, and immerse participants in real-life scenarios.
+
+</div>
+
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;"> <div style="width: 1800px;">
+
+```{r risingtides, echo=FALSE, fig.cap="<span style='font-size: 14px;'>*Rising TIDES advisors at Restore America's Estuaries meeting in 2024*</span>", out.width = '80%', results='asis'}
+knitr::include_graphics("risingtides2.jpg")
+```
+
+</div>
+
+<div style="padding-left: 20px; font-size: 16px; line-height: 1.6;">
+
+<span style="font-size: 18px;">*Rising TIDES*</span>
+
+In 2017, the Coastal and Estuarine Research Federation (CERF) established [Rising TIDES](https://www.cerf.science/rising-tides-program), a NSF-funded program to support students from backgrounds underrepresented in coastal and estuarine sciences to pursue careers in those fields. I received an award through the Rising TIDES Program in 2021 to attend two professional conferences, speak on a panel, and participate in multiple career training workshops. This program was a crucial pathway for me to meet scientists at various career stages who have succeeded despite societal hurdles. In 2023, I was invited back to Rising TIDES in an advisory role, which involved providing technical and logistical support during planning, workshops, and conference proceedings. As a former student member, I was grateful to have the opportunity to engage with the next cohort of Rising TIDES students.
+
+</div>
+
+</div>
