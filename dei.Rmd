@@ -49,7 +49,7 @@ As a PhD Student at Northeastern University, I helped to coordinate a “You Are
 <div style="display: flex; align-items: center;"> <div style="width: 1800px;">
 
 ```{r risingtides, echo=FALSE, fig.cap="<span style='font-size: 14px;'>*Rising TIDES advisors at Restore America's Estuaries meeting in 2024*</span>", out.width = '80%', results='asis'}
-knitr::include_graphics("risingtides2.jpg")
+knitr::include_graphics("risingtides2.JPG")
 ```
 
 </div>
