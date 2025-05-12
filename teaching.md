@@ -9,7 +9,7 @@ I also have an overarching goal to enhance the self-efficacy of my students thro
 
 ## Teaching Experience
 
-- ENV101: Environment and Society
+**ENV101: Environment and Society**
 
 This course focuses on understanding the intertwined nature of people and environments. Students will learn to see and describe the social, economic, and biophysical dimensions of environmental problems and solutions. Specific topics include:
 
@@ -27,6 +27,7 @@ After building a foundation in the fundamentals of coupled socio-environmental s
 
 ## Areas of Instructional Expertise
 
+- Environment and Society
 - Sustainable Development
 - Environmental Sociology
 - Participatory Research Methods
