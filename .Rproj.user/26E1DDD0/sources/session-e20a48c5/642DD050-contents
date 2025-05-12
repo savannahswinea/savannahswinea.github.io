@@ -15,5 +15,5 @@ As a PhD Student at Northeastern University, I helped to coordinate a “You Are
 In 2017, the Coastal and Estuarine Research Federation (CERF) established [Rising TIDES](https://www.cerf.science/rising-tides-program), a NSF-funded program to support students from backgrounds underrepresented in coastal and estuarine sciences to pursue careers in those fields. I received an award through the Rising TIDES Program in 2021 to attend two professional conferences, speak on a panel, and participate in multiple career training workshops. This program was a crucial pathway for me to meet scientists at various career stages who have succeeded despite societal hurdles. In 2023, I was invited back to Rising TIDES in an advisory role, which involved providing technical and logistical support during planning, workshops, and conference proceedings. As a former student member, I was grateful to have the opportunity to engage with the next cohort of Rising TIDES students.
 
 ![DEI 2](asset/risingtides2.JPG)
-<p style="text-align: center;">*Rising TIDES advisors at Restore America's Estuaries meeting in 2024*</p>
+<p style="text-align: center;"><em>Rising TIDES advisors at Restore America's Estuaries meeting in 2024<em></p>
 
