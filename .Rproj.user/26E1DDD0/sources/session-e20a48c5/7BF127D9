@@ -1,12 +1,12 @@
 {
-    "id": "A25AAA16",
+    "id": "7BF127D9",
     "path": "~/GitHub/shswinea.github.io/_config.yml",
     "project_path": "_config.yml",
     "type": "yaml",
-    "hash": "94269552",
+    "hash": "0",
     "contents": "",
-    "dirty": true,
-    "created": 1739888638800.0,
+    "dirty": false,
+    "created": 1747076586289.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1747067525,
+    "lastKnownWriteTime": 1747076549,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1747067525559,
+    "last_content_update": 1747076549,
     "read_only": false,
     "read_only_alternatives": []
 }
