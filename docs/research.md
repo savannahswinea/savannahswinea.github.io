@@ -1,5 +1,5 @@
 # Research
-[About](https://shswinea.github.io/) | [Research](/research.md) | [Teaching](/teaching.md)
+[About](https://shswinea.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [DEI](/dei.md) | [News](/news.md)
 
 ## Social-Ecological Drivers of Shoreline Change 
 

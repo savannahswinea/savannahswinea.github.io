@@ -1,5 +1,5 @@
 # Teaching
-[About](https://shswinea.github.io/) | [Research](/research.md) | [Publications](/publications.md) | [Teaching](/teaching.md) | [DEI](/dei.md) | [News](/outreach.md)
+[About](https://shswinea.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [DEI](/dei.md) | [News](/news.md)
 
 Inclusive teaching is a mindset that I strive to cultivate. When we enter the classroom, we are not blank slates, and thus we are not all in the same class. We each bring unique experiences and challenges into the learning space, and centering both student and instructor identity is crucial for everyone to learn to the best of their ability.
 
@@ -21,6 +21,16 @@ This course focuses on understanding the intertwined nature of people and enviro
 * History, policy, and religion
 
 After building a foundation in the fundamentals of coupled socio-environmental systems, students apply this knowledge as researchers. Students develop and implement surveys of their university community on sustainability topics of their choosing and disseminate their findings in a conference-style presentation and report in the style of a peer-reviewed publication.
+
+<table>
+  <tr>
+    <td><img src="asset/class1.jpg" alt="Image 1" width="300"/></td>
+    <td><img src="asset/class2.jpg" alt="Image 2" width="300"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>Undergraduate students present their class projects in Fall 2024</em></td>
+  </tr>
+</table>
 
 ## Areas of Instructional Expertise
 

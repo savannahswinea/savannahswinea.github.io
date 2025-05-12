@@ -1,9 +1,9 @@
 # Knowledge co-production for sustainability
-[About](https://shswinea.github.io/) | [Research](/research.md) | [Teaching](/teaching.md)
+[About](https://shswinea.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [DEI](/dei.md) | [News](/news.md)
 
 Welcome!
 
-My research focuses on co-producing knowledge with scientists and local experts and applying that knowledge to practically benefit ecosystems and societies. My work is interdisciplinary, spanning environmental and social sciences, and I use participatory approaches alongside statistical and computational methods to unpack complex modern challenges.
+My research focuses on co-producing knowledge with scientists and local experts and applying that knowledge to practically benefit ecosystems and societies. My work is spans environmental, social, and data sciences, and I use participatory and computational approaches to unpack complex modern challenges.
 
 I am currently a Postdoctoral Researcher at North Carolina State University in partnership the United States Geological Survey (USGS) [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/).
 
