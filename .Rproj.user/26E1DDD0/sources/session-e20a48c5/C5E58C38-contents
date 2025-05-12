@@ -24,7 +24,7 @@ After building a foundation in the fundamentals of coupled socio-environmental s
 
 ![Class 1](asset/class1.jpg)
 ![Class 2](asset/class2.jpg)
-<p style="text-align: center;"><em>Undergraduate students present their class projects in Fall 2024<em></p>
+*Undergraduate students present their class projects in Fall 2024*
 
 
 ## Areas of Instructional Expertise
