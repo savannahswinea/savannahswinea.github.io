@@ -7,12 +7,6 @@
     "phone": "(919)-515-4662",
     "url": "https://savannahswinea.github.io",
     "summary": "Knowledge co-production for sustainability",
-    # "location": {
-      # "address": "2712 Broadway St",
-      # "postalCode": "CA 94115",
-      # "city": "San Francisco",
-      # "countryCode": "US",
-      # "region": "California"
     },
     "profiles": [
       {
@@ -31,23 +25,21 @@
       "endDate": "",
       "summary": "My postdoctoral work encompasses two major themes: (1) collaborating with the Eastern Band of Cherokee Indians (EBCI) on their climate adaptation planning using social surveys and policy analysis; and (2) eliciting the perceptions of prescribed fire managers to enhance climate-informed decision-making in the US Southeast.",
       "highlights": [""]
-    }
+    },
     {
       "name": "University of South Alabama",
       "position": "Visiting Scholar",
       "url": "https://www.scypherslab.com/",
       "startDate": "2022-08",
       "endDate": "2025-01",
-      # "summary": "",
       "highlights": [""]
-    }
+    },
     {
       "name": "Northeastern University",
       "position": "PhD Student ",
       "url": "https://cos.northeastern.edu/people/savannah-swinea/",
       "startDate": "2020-08",
       "endDate": "2022-07",
-      # "summary": "",
       "highlights": [""]
     }
   ],
@@ -60,9 +52,8 @@
       "studyType": "PhD",
       "startDate": "2020-08",
       "endDate": "2024-12",
-      # "score": "10",
       "courses": ["Dissertation: Co-producing science through public participation in coastal social-ecological systems research"]
-    }
+    },
     {
       "institution": "University of North Carolina at Chapel Hill",
       "location": "Chapel Hill, NC",
@@ -71,7 +62,6 @@
       "studyType": "BS",
       "startDate": "2015-08",
       "endDate": "2019-05",
-      # "score": "10",
       "courses": ["Thesis: Economic impacts of the Deepwater Horizon oil spill on Gulf fisheries"]
     }
 
@@ -82,73 +72,71 @@
       "date": "2024",
       "awarder": "Dauphin Island Sea Lab",
       "summary": "Amount: $40"
-    }
+    },
     {
       "title": "Advisor, Rising TIDES (Towards an Inclusive, Diverse, and Enriched Society)",
       "date": "2024",
       "awarder": "Coastal and Estuarine Research Federation",
       "summary": "Amount: $6,000"
-    }
+    },
     {
       "title": "Best Oral Presentation, Honorable Mention",
       "date": "2024",
       "awarder": "Gulf Coast Graduate Student Symposium",
-      # "summary": "Amount: $40"
-    }
+    },
     {
       "title": "Workshop Facilitator Award",
       "date": "2024",
       "awarder": "You Are Welcome Here Campaign",
       "summary": "Amount: $200"
-    }
+    },
     {
       "title": "Advisor, Rising TIDES (Towards an Inclusive, Diverse, and Enriched Society)",
       "date": "2023",
       "awarder": "Coastal and Estuarine Research Federation",
       "summary": "Amount: $6,000"
-    }
+    },
     {
       "title": "Best Graduate Student Oral Presentation, Honorable Mention",
       "date": "2022",
       "awarder": "Gulf Estuarine Research Society Biennial Conference",
       "summary": "Amount: $75"
-    }
+    },
     {
       "title": "Workshop Facilitator Award",
       "date": "2022",
       "awarder": "You Are Welcome Here Campaign",
       "summary": "Amount: $400"
-    }
+    },
     {
       "title": "Recipient, Rising TIDES (Towards an Inclusive, Diverse, and Enriched Society)",
       "date": "2021",
       "awarder": "Coastal and Estuarine Research Federation",
       "summary": "Amount: $1,000"
-    }
+    },
     {
       "title": "Graduate Research Fellowship, Honorable Mention",
       "date": "2021",
       "awarder": "National Science Foundation",
-      # "summary": "Amount: $1,000"
-    }
+    },
     {
       "title": "Department of Marine and Environmental Sciences Graduate Fellowship",
       "date": "2020",
       "awarder": "Northeastern University",
       "summary": "Amount: $114,000"
-    }
+    },
     {
       "title": "Undergraduate Honors Thesis",
       "date": "2019",
       "awarder": "University of North Carolina Chapel Hill",
       "summary": "Highest Honors Designation"
-    }
+    },
     {
       "title": "Environment, Ecology, and Energy Program Scholarship",
       "date": "2018",
       "awarder": "University of North Carolina at Chapel Hill",
       "summary": "Amount: $7,500"
-    }
+    },
     {
       "title": "Increasing Diversity and Enhancing Academia (IDEA) 2.0",
       "date": "2017",
@@ -187,7 +175,7 @@
       "keywords": [
         "Esri Products (ArcGIS Pro, ArcGIS Online, ArcGIS Survey 123)",
         "IBM Statistical Package for the Social Sciences",
-        "Python Programming Envinronment",
+        "Python Programming Environment",
         "Qualtrics XM",
         "R Programming Environment"
       ]
@@ -203,7 +191,7 @@
         "Environmental Social Science",
         "Indigenous Research Methods"
       ]
-    }
+    },
     {
       "name": "Study Systems",
       "icon": "fa-solid fa-tag",
@@ -213,7 +201,7 @@
         "Shorelines",
         "Management Units"
       ]
-    }
+    },
     {
       "name": "Strategies",
       "icon": "fa-solid fa-tag",
