@@ -15,29 +15,15 @@
       "summary": "My postdoctoral work encompasses two major themes: (1) collaborating with the Eastern Band of Cherokee Indians (EBCI) on their climate adaptation planning using social surveys and policy analysis; and (2) eliciting the perceptions of prescribed fire managers to enhance climate-informed decision-making in the US Southeast."
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Northeastern University",
+      "location": "Boston, Massachusetts",
+      "url": "https://www.northeastern.edu/",
+      "area": "Marine and Environmental Sciences",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2020-08",
+      "endDate": "2024-12"
     }
   ],
   "awards": [
