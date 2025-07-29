@@ -495,14 +495,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-first-dissertation-chapter-published-linked-here",
+            },},{id: "news-first-dissertation-chapter-published-linked-here",
           title: 'First dissertation chapter published! Linked here.',
           description: "",
           section: "News",},{id: "news-graduation-my-phd-is-in-marine-and-environmental-sciences-with-a-concentration-in-sustainability-sciences",
           title: 'Graduation! My PhD is in Marine and Environmental Sciences with a concentration in...',
+          description: "",
+          section: "News",},{id: "news-first-day-of-my-postdoc-at-nc-state-wolf",
+          title: 'First day of my postdoc at NC State :wolf:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
