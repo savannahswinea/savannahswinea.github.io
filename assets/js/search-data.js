@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-restoring-the-natural-world-hp-bagpipe",
+        
+          title: 'Restoring the Natural World – HP Bagpipe <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Long before the Pacific Coast Highway, the Hollywood sign, or any of the other landmarks that are synonymous with southern California, the area was home to native American tribes who lived in harmony with the land, through the eco-friendly utilization of the Chaparral biome’s natural resources. Centuries later, the area, now known as the Pacific...",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://hpbagpipe.com/20376/2025-issues-issue/restoring-the-natural-world/", "_blank");
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -92,17 +103,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
       },{id: "post-a-post-with-tabs",
@@ -292,6 +292,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/videos/";
           
         },
+      },{id: "post-youarewelcomehere-a-safe-space-for-all-northeastern-university-college-of-science",
+        
+          title: '#YouAreWelcomeHere - A Safe Space For All - Northeastern University College of Science... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The You Are Welcome Here (YAWH) campaign is an initiative to display acceptance and support for LGBTQIA+ members of the Marine and Environmental Sciences (MES)  community.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://cos.northeastern.edu/news/youarewelcomehere-a-safe-space-for-all/", "_blank");
+          
+        },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
         
           title: "displaying beautiful tables with Bootstrap Tables",
@@ -325,17 +336,6 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -345,6 +345,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/assets/pdf/example_pdf.pdf";
+          
+        },
+      },{id: "post-how-can-counting-amberjack-fish-help-safeguard-coastal-ecosystems",
+        
+          title: 'How Can Counting Amberjack Fish Help Safeguard Coastal Ecosystems? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Scyphers and scientists will team up with anglers to count greater amberjack, a reef fish prized by anglers and chefs alike.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://news.northeastern.edu/2021/09/13/protecting-coastal-ecosystem-health/", "_blank");
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -378,6 +389,50 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2020/twitter/";
+          
+        },
+      },{id: "post-a-solution-for-seagrass-unc-research-stories",
+        
+          title: 'A Solution for Seagrass - UNC Research Stories <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Seagrasses are vital habitats in North Carolina coastal waters, but their numbers have dwindled over the years. A team at the UNC Institute of Marine Sciences is exploring what type of seagrass structure marine life prefer in order to best approach restoring these important aquatic environments.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://endeavors.unc.edu/a-solution-for-seagrass/", "_blank");
+          
+        },
+      },{id: "post-savannah-swinea-unc-research-stories",
+        
+          title: 'Savannah Swinea - UNC Research Stories <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Rising senior Savannah Swinea is an undergraduate researcher within the UNC College of Arts &amp; Sciences majoring in environmental science, with a minor in marine science. Her research focuses on the effects of streambed clogging on water exchange, which she studies in the UNC fluids lab via a racetrack flume.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://endeavors.unc.edu/savannah-swinea/", "_blank");
+          
+        },
+      },{id: "post-go-with-the-flow-the-university-of-north-carolina-at-chapel-hill",
+        
+          title: 'Go with the flow - The University of North Carolina at Chapel Hill... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Streambeds act as natural water filters by trapping particles and pollutants. To better understand the dynamics of these small yet complex systems, a Carolina hydrologist is creating (and clogging) her own stream.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.unc.edu/discover/go-with-the-flow/", "_blank");
+          
+        },
+      },{id: "post-idea-2-0-students-stand-out-at-undergraduate-pipeline-research-symposium-unc-institute-for-the-environment",
+        
+          title: 'IDEA 2.0 students stand out at Undergraduate Pipeline Research Symposium - UNC Institute... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "By Rachel Greene On July 28, 2017 hundreds of people filed into the Sonja Hayes Stone Center at UNC-Chapel Hill for the annual Undergraduate Pipeline Research Symposium. Nearly 150 undergraduates from UNC and universities around the country presented posters at … Read more",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ie.unc.edu/news/idea-2-0-students-stand-out-at-undergraduate-pipeline-research-symposium/", "_blank");
           
         },
       },{id: "post-a-post-with-disqus-comments",
