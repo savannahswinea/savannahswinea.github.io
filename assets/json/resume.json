@@ -146,12 +146,31 @@
       "name": "Research Paradigms",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Participatory Science",
+        "Knowledge Co-Production",
+        "Environmental Social Science",
+        "Indigenous Research Methods",
+      ]
+    },
+    {
+      "name": "Strategies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Statistical Analysis",
+        "Network Analysis",
+        "Climate Modeling",
+        "Workshop Facilitation",
+        "User Product Development"
+      ]
+    },
+    {
+      "name": "Study Systems",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Social-Ecological Systems",
+        "Fisheries",
+        "Shorelines",
+        "Public Lands"
       ]
     }
   ],
