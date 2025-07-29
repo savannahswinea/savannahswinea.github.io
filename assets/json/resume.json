@@ -144,7 +144,7 @@
   "interests": [
     {
       "name": "Research Paradigms",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-lightbulb",
       "keywords": [
         "Participatory Science",
         "Knowledge Co-Production",
@@ -154,7 +154,7 @@
     },
     {
       "name": "Strategies",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-chart-line",
       "keywords": [
         "Statistical Analysis",
         "Network Analysis",
@@ -165,7 +165,7 @@
     },
     {
       "name": "Study Systems",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tree",
       "keywords": [
         "Social-Ecological Systems",
         "Fisheries",
@@ -180,7 +180,7 @@
       "date": "2024",
       "issuer": "Inclusive STEM Teaching Project",
       "url": "https://www.inclusivestemteaching.org/",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-flask"
     }
   ]
 }
