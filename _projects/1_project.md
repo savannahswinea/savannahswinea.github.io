@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Fish and fisheries resilience to disturbances
-description: with background image
 img: assets/img/dwh.jpg
 importance: 1
 category: work
@@ -17,5 +16,5 @@ I next moved from oil spills to tropical cyclones: a major type of pulse disturb
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Commercial fisheries revenue in the northern Gulf pre- and post-spill.
 </div>
