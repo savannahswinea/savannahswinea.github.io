@@ -460,8 +460,8 @@ ninja.data = [{
           section: "News",},{id: "news-first-day-of-my-postdoc-at-nc-state-wolf",
           title: 'First day of my postdoc at NC State :wolf:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-fish-and-fisheries-resilience-to-disturbances",
+          title: 'Fish and fisheries resilience to disturbances',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
