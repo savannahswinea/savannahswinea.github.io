@@ -462,7 +462,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-fish-and-fisheries-resilience-to-disturbances",
           title: 'Fish and fisheries resilience to disturbances',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
