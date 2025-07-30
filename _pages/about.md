@@ -2,15 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Social-Ecological Scientist, Bridge Builder, Postdoctoral Researcher.
+subtitle: Social-Ecological Scientist, Bridge Builder, Postdoctoral Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Postdoctoral Researcher</p>
-    <p>NC State University</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
