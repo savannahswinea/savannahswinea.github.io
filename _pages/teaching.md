@@ -13,7 +13,6 @@ I use dynamic lectures and activities to embody an active and experiential teach
 I also have an overarching goal to enhance the self-efficacy of my students through research projects. Students choose topics that are relevant and place-based, and then employ rigorous scientific principles to answer their research questions.
 
 <h2>Areas of Instructional Expertise</h2>
-<br>
 <ul>
   <li>Environment and Society</li>
   <li>Sustainable Development</li>
@@ -29,7 +28,6 @@ I also have an overarching goal to enhance the self-efficacy of my students thro
 <h3>ENV101: Environment and Society</h3>
 
 This course focuses on understanding the intertwined nature of people and environments. Students will learn to see and describe the social, economic, and biophysical dimensions of environmental problems and solutions. Specific topics include:
-<br>
 <ul>
   <li>Resilience and ecosystem services</li>
   <li>Risks and hazards</li>
