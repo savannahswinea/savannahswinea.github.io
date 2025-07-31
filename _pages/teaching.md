@@ -21,7 +21,6 @@ I also have an overarching goal to enhance the self-efficacy of my students thro
   <li>Social-Ecological Systems Modeling</li>
   <li>Social Science Methods in R and Python</li>
 </ul>
-<br>
 
 <h2>Teaching Experience</h2>
 
@@ -36,7 +35,7 @@ This course focuses on understanding the intertwined nature of people and enviro
   <li>Commons and food systems</li>
   <li>History, policy, and religion</li>
 </ul>
-<br>
+
 After building a foundation in the fundamentals of coupled socio-environmental systems, students apply this knowledge as researchers. Students develop and implement surveys of their university community on sustainability topics of their choosing and disseminate their findings in a conference-style presentation and report in the style of a peer-reviewed publication.
 
 <div class="row">
