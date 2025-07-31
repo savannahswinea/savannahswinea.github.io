@@ -1,40 +1,20 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Shifting habitats and ecosystem services
+img: assets/img/mangrangeshift.jpg
+importance: 1
 category: work
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Climate-driven habitat shifts are reshaping ecosystems globally, including in the northern Gulf of the United States. One example of this phenomenon in the region is the expansion of mangroves into areas historically dominated by salt marshes. Warmer winters are reducing freeze events that once limited mangrove growth, allowing these woody, tropical species to expand poleward and outcompete freeze-tolerant marsh grasses. This transition represents a major ecological shift that could significantly alter wetland structure, function, and ecosystem service delivery.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Mangrove distribution, especially at the range limits for these species, is highly dynamic. In expert elicitation exercises with wetland scientists and coastal managers, we built an up-to-date mangrove distribution map and found that expert perceptions differed from existing spatial information most frequently at mangrove range limits. Further, these experts recommended methodological refinements and improved spatiotemporal data regarding changes in mangrove structure and abundance near northern range limits in the southeastern USA {% cite bardou2023rapidly %}. Our updated map is publicly available on the <a href="https://maps.coastalresilience.org/mangrove-explorer/">Mangrove Explorer clearinghouse</a>.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Given structural and functional differences between these two wetland types, we sought to understand if mangroves and salt marshes offer distinct ecosystem services to benefit coastal societies. We reviewed the current understanding of the effects of mangrove range expansion and displacement of salt marshes on ecosystem services (e.g., carbon sequestration, wildlife habitat, storm protection, erosion reduction, water purification, fisheries support, recreation) in the southeastern United States, and identified emerging research needs in this space. We found that there are ecological trade-offs, where mangrove expansion and marsh displacement can produce beneficial changes in some ecosystem services, while simultaneously producing detrimental changes in other services. Thus, there can be local-scale differences in perceptions of the impacts of mangrove expansion into salt marshes. For very specific local reasons, some individuals may see mangrove expansion as a positive change to be embraced, while others may see mangrove expansion as a negative change to be constrained {% cite osland2022the %}.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+To estimate how mangrove expansion will look in the future, we projected coastal wetland vegetation distribution and structure for the period 2071-2100. Mangrove presence will dramatically increase in the northern Gulf and southeast Atlantic coast of the US, especially under higher carbon emissions scenarios. This impending transformative change of coastal habitats necessitates further study of mangrove range dynamics and better integration of ecological data with societal needs and perceptions {%cite bardou2024projected %}.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -43,39 +23,3 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
