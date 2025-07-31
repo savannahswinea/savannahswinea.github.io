@@ -155,7 +155,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-social-dynamics-of-landscape-change",
-          title: 'social dynamics of landscape change',
+          title: 'Social dynamics of landscape change',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
