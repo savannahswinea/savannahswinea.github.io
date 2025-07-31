@@ -41,8 +41,21 @@ This course focuses on understanding the intertwined nature of people and enviro
 <br>
 After building a foundation in the fundamentals of coupled socio-environmental systems, students apply this knowledge as researchers. Students develop and implement surveys of their university community on sustainability topics of their choosing and disseminate their findings in a conference-style presentation and report in the style of a peer-reviewed publication.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/class1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/class2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Undergraduate students present their class projects in Fall 2024.
+</div>
 
-Undergraduate students present their class projects in Fall 2024.
+
+
+
 
 
 
