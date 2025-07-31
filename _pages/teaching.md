@@ -21,10 +21,10 @@ I also have an overarching goal to enhance the self-efficacy of my students thro
   <li>Social-Ecological Systems Modeling</li>
   <li>Social Science Methods in R and Python</li>
 </ul>
-
+<br>
 <h2>Teaching Experience</h2>
 
-<h3>ENV101: Environment and Society</h3>
+<h5>ENV101: Environment and Society</h5>
 
 This course focuses on understanding the intertwined nature of people and environments. Students will learn to see and describe the social, economic, and biophysical dimensions of environmental problems and solutions. Specific topics include:
 <ul>
