@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-restoring-the-natural-world-hp-bagpipe",
+        },{id: "post-savannah-swinea-university-human-resources-news",
+        
+          title: 'Savannah Swinea | University Human Resources News <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Savannah Swinea is a postdoctoral researcher in the Department of Applied Ecology.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://news.hr.ncsu.edu/2025/08/savannah-swinea/", "_blank");
+          
+        },
+      },{id: "post-restoring-the-natural-world-hp-bagpipe",
         
           title: 'Restoring the Natural World – HP Bagpipe <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
