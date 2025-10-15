@@ -2,7 +2,7 @@
 layout: page
 title: Subsistence fishing patterns near food deserts
 img: assets/img/subsistencemap.jpg
-importance: 4
+importance: 1
 category: work
 related_publications: true
 ---
