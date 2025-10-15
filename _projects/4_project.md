@@ -13,12 +13,9 @@ We deployed surveys at public, shore-based fishing sites along Mobile Bay, Alaba
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mangexpansion.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bigmangroves.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/subsistencefig.jpg" title="subsistencefig" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: Mangrove propagules become established in a salt marsh stand. Right: Mature red mangroves can reach 20 feet in height in the sub-tropical US.
+    Differences in the proportion of subsistence vs. non-subsistence fishers who a) targeted fish groups and b) shared fish with social groups.
 </div>
