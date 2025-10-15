@@ -2,7 +2,7 @@
 layout: page
 title: Social dynamics of landscape change
 img: assets/img/socialmangroves.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
