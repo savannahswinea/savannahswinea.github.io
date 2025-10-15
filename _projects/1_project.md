@@ -2,7 +2,7 @@
 layout: page
 title: Fish and fisheries resilience to disturbances
 img: assets/img/dwh.jpg
-importance: 1
+importance: 4
 category: work
 related_publications: true
 ---
