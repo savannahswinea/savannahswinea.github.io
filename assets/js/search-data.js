@@ -160,17 +160,7 @@ ninja.data = [{
           section: "News",},{id: "news-first-day-of-my-postdoc-at-nc-state-wolf",
           title: 'First day of my postdoc at NC State :wolf:',
           description: "",
-          section: "News",},{id: "projects-fish-and-fisheries-resilience-to-disturbances",
-          title: 'Fish and fisheries resilience to disturbances',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-social-dynamics-of-landscape-change",
-          title: 'Social dynamics of landscape change',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-shifting-habitats-and-ecosystem-services",
+          section: "News",},{id: "projects-shifting-habitats-and-ecosystem-services",
           title: 'Shifting habitats and ecosystem services',
           description: "",
           section: "Projects",handler: () => {
@@ -195,6 +185,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-fish-and-fisheries-resilience-to-disturbances",
+          title: 'Fish and fisheries resilience to disturbances',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fishdisturbance/";
+            },},{id: "projects-social-dynamics-of-landscape-change",
+          title: 'Social dynamics of landscape change',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/residentsmangroves/";
             },},{
         id: 'social-email',
         title: 'email',
